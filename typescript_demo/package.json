@@ -1,0 +1,13 @@
+{
+  "name": "typescript_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node ./demo12.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
